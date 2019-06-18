@@ -7,32 +7,22 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**问题描述**
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**复现步骤**
+1. 
+2. 
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**期望结果**
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**实际结果**
 
-**Additional context**
-Add any other context about the problem here.
+
+**环境信息**
+ - OS: CentOS7
+ - Browser:  chrome
+ - 当前测试版本：
+
+**其他信息**
