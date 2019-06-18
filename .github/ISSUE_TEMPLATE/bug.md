@@ -21,8 +21,9 @@ assignees: ''
 
 
 **环境信息**
+ - 当前版本：
  - OS: CentOS7
  - Browser:  chrome
- - 当前测试版本：
+ 
 
 **其他信息**
