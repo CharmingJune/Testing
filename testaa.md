@@ -11,7 +11,7 @@ Download ：[https://github.com/LambdaIM/launch/releases/tag/Wallet0.3.12](https
 ![avatar](img/wallethome@2x.png)
 
 
-* [SwitchLanguage](#SwitchLanguage)
+* [Switch-Language](#Switch-Language)
 * [Create Account](#Create%20Account)
 * [Use Mnemonic Import Account Into Lambda Program](#Use Mnemonic Import Account Into Lambda Program)
 * [Signatures & Add address To Pledge System](#Signatures & Add address To Pledge System)
@@ -30,7 +30,7 @@ Download ：[https://github.com/LambdaIM/launch/releases/tag/Wallet0.3.12](https
 * [Assets View & Trading](#Assets View & Trading)
 * [Proposal Deposit & Vote](#Proposal Deposit & Vote)
  
-## SwitchLanguage
+## Switch-Language
 
 ![avatar](img/lang@2x.png)
 
