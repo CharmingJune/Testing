@@ -12,23 +12,23 @@ Download ：[https://github.com/LambdaIM/launch/releases/tag/Wallet0.3.12](https
 
 
 * [Switch-Language](#Switch-Language)
-* [Create Account](#Create%20Account)
-* [Use Mnemonic Import Account Into Lambda Program](#Use Mnemonic Import Account Into Lambda Program)
-* [Signatures & Add address To Pledge System](#Signatures & Add address To Pledge System)
-* [Import Account](#Import Account)
-* [Home Page Description](#Home Page Description)
+* [Create-Account](#Create-Account)
+* [Use-Mnemonic-Import-Account-Into-Lambda-Program](#Use-Mnemonic-Import-Account-Into-Lambda-Program)
+* [Signatures-&-Add-address-To-Pledge-System](#Signatures&Add-address-To-Pledge-System)
+* [Import-Account](#Import-Account)
+* [Home-Page-Description](#Home-Page-Description)
 * [Transfer](#Transfer)
-* [Export Account Profile](#Export Account Profile)
-* [Change Validator Node IP](#Change Validator Node IP)
-* [Exchange LAMB For TBB](#Exchange LAMB For TBB)
-* [View Validator Info And Pledges](#View Validator Info And Pledges)
-* [View Partner Info And Pledges](#View Partner Info And Pledges)
+* [Export-Account-Profile](#Export-Account-Profile)
+* [Change-Validator-Node-IP](#Change-Validator-Node-IP)
+* [Exchange-LAMB-For-TBB](#Exchange-LAMB-For-TBB)
+* [View-Validator-Info-And-Pledges](#View-Validator-Info-And-Pledges)
+* [View-Partner-Info-And-Pledges](#View-Partner-Info-And-Pledges)
 * [Redelegate](#Redelegate)
-* [Cancel Pledge](#Cancel Pledge)
-* [Withdraw Rewards](#Withdraw Rewards)
-* [Withdraw Validator Profit](#Withdraw Validator Profit)
-* [Assets View & Trading](#Assets View & Trading)
-* [Proposal Deposit & Vote](#Proposal Deposit & Vote)
+* [Cancel-Pledge](#Cancel-Pledge)
+* [Withdraw-Rewards](#Withdraw-Rewards)
+* [Withdraw-Validator-Profit](#Withdraw-Validator-Profit)
+* [Assets-View-&-Trading](#Assets-View&Trading)
+* [Proposal-Deposit-&-Vote](#Proposal-Deposit&Vote)
  
 ## Switch-Language
 
@@ -88,7 +88,7 @@ If the address of the output account is consistent with the wallet, the import i
 **tips**
 Please note the mnemonic words showed in picture is just an example. 
 
-## Signatures & Add address To Pledge System
+## Signatures&Add-address-To-Pledge-System
 ![avatar](img/sin@2x.png)
 input some word, and then copy the signature data to the Pledge System(https://validator.lambdastorage.com/#/)
 
