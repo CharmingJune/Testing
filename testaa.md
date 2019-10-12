@@ -28,7 +28,7 @@ Download ：[https://github.com/LambdaIM/launch/releases/tag/Wallet0.3.12](https
 * [Withdraw-Rewards](#Withdraw-Rewards)
 * [Withdraw-Validator-Profit](#Withdraw-Validator-Profit)
 * [Assets-View-&-Trading](#Assets-View&Trading)
-* [Proposal-Deposit-&-Vote](#Proposal-Deposit&Vote)
+* [Proposal-Deposit-&-Vote](#Proposal-Deposit-And-Vote)
  
 ## Switch-Language
 
@@ -260,7 +260,7 @@ Click on the asset label on the front page of your wallet to see all assets in y
 Click on the trade button to open the window for trading assets.
 ![avatar](img/asset2@2x.png)
 
-## Proposal Deposit & Vote
+## Proposal-Deposit-And-Vote
 Click on the proposal in the navigation menu at the top to enter the proposal list page.
 ![avatar](img/t1@2x.png)
 Click on the text description section of the proposal to enter the proposal details page.
